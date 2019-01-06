@@ -5,8 +5,8 @@ This program is queue simulator with three algorithms to try from
 2.Uniformly Distributed Integer Generator
 3.Floor Generator
 
-To run this program, get all the files to be in the same folder and execute the mainSimulator program. 
-You need install Freemat for this to work. Use the command,
+To run this program, get all the files to be in the same folder and execute the mainSimulator program in Freemat. 
+You need install Freemat for this to work. Use the command in Freemat,
 -> mainSimulator
 
 You need to enter the number of customers followed by number of counters and their prefix. Prefix have to be in number and in sequential format.
