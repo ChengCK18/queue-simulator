@@ -1,4 +1,4 @@
-# QueueSimulator
+# queue_simulator
 
 This program is queue simulator with three algorithms to try from
 1.Linear Congruential Generator
